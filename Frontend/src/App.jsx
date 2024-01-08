@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import axios from "axios";
-import dotenv from "dotenv";
 import "./App.css";
 
 const App = () => {
